@@ -1,4 +1,1 @@
-mkdir cmake-build
-cd cmake-build
-../bootstrap
-make
+C:\YPM\Cygwin\32\YSP000001\010000\ApplicationData\bin\bash.exe -c "./build.sh %*"
